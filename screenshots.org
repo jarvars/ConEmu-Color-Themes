@@ -17,6 +17,12 @@
   [[file:./screenshots/ayu-mirage.png]] 
 ** Dark
   [[file:./screenshots/ayu-dark.png]]
+
+* [[https://github.com/jarvars/AwesomeMix][Awesome-Mix]]
+- Contributor: [[https://github.com/jarvars][Jarvars]]
+
+[[file:./screenshots/awesome-mix.png]]
+
 * [[https://chriskempson.github.io/base16/][Base16]]
 ** Ocean (dark)
     [[file:./screenshots/base16-ocean-dark.png]]

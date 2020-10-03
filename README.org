@@ -13,7 +13,7 @@ original.
 
 Note that most of the [[screenshots.org][screenshots]] shown here are taken with the prompt
 customized with [[https://github.com/dahlbyk/posh-git][posh-git]] and the =Get-ChildItem= with [[https://github.com/joonro/Get-ChildItemColor][Get-ChildItemColor]]. See
-this [[http://joonro.github.io/blog/posts/powershell-customizations.html][blog post]] for my PowerShell customizations.
+this [[http://joonro.github.io/blog/posts/powershell-customizations/][blog post]] for my PowerShell customizations.
 
 My current favorites are =material-theme (Emacs) light= and =One Dark=.
 * Examples
@@ -29,6 +29,7 @@ My current favorites are =material-theme (Emacs) light= and =One Dark=.
 For all screenshots, see [[screenshots.org][screenshots]]
 
 - [[screenshots.org#atom-one][Atom One]] (light & dark)
+- [[screenshots.org#awesome-mix][Awesome Mix]]
 - [[screenshots.org#ayu][ayu]] (Light, Mirage, & Dark)
 - [[screenshots.org#base16][Base16]]
   - Ocean (dark)
